@@ -1,0 +1,27 @@
+[2019-05-31 14:25:30,435] - logger.py] - INFO: --------------start-------------
+[2019-05-31 14:25:30,545] - logger.py] - INFO: 调用登录结果：admin
+[2019-05-31 14:25:30,545] - logger.py] - INFO: 判断是否登录成功：admin
+[2019-05-31 14:25:30,546] - logger.py] - INFO: --------------end-------------
+[2019-05-31 14:25:30,642] - logger.py] - INFO: 调用登录结果：admin
+[2019-05-31 14:25:30,645] - logger.py] - INFO: 调用保存结果：{'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906', 'json': {'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906'}}
+[2019-05-31 14:25:30,742] - logger.py] - INFO: 调用登录结果：admin
+[2019-05-31 14:25:30,745] - logger.py] - INFO: 调用保存结果：{'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906', 'json': {'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906'}}
+[2019-05-31 14:25:30,747] - logger.py] - INFO: 调用删除结果：None
+[2019-05-31 14:28:00,662] - logger.py] - INFO: --------------start-------------
+[2019-05-31 14:28:00,771] - logger.py] - INFO: 调用登录结果：admin
+[2019-05-31 14:28:00,772] - logger.py] - INFO: 判断是否登录成功：admin
+[2019-05-31 14:28:00,772] - logger.py] - INFO: --------------end-------------
+[2019-05-31 14:28:00,864] - logger.py] - INFO: 调用登录结果：admin
+[2019-05-31 14:28:00,867] - logger.py] - INFO: 调用保存结果：{'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906', 'json': {'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906'}}
+[2019-05-31 14:28:00,961] - logger.py] - INFO: 调用登录结果：admin
+[2019-05-31 14:28:00,964] - logger.py] - INFO: 调用保存结果：{'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906', 'json': {'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906'}}
+[2019-05-31 14:28:00,966] - logger.py] - INFO: 调用删除结果：<Response [403]>
+[2019-05-31 14:28:45,619] - logger.py] - INFO: --------------start-------------
+[2019-05-31 14:28:45,740] - logger.py] - INFO: 调用登录结果：admin
+[2019-05-31 14:28:45,741] - logger.py] - INFO: 判断是否登录成功：admin
+[2019-05-31 14:28:45,741] - logger.py] - INFO: --------------end-------------
+[2019-05-31 14:28:45,835] - logger.py] - INFO: 调用登录结果：admin
+[2019-05-31 14:28:45,838] - logger.py] - INFO: 调用保存结果：{'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906', 'json': {'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906'}}
+[2019-05-31 14:28:45,932] - logger.py] - INFO: 调用登录结果：admin
+[2019-05-31 14:28:45,934] - logger.py] - INFO: 调用保存结果：{'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906', 'json': {'name': '北京-宏哥', 'mode': 'hudson.model.FreeStyleProject', 'Jenkins-Crumb': '51a97fc7fbf3792823230d9bdd7ec906'}}
+[2019-05-31 14:28:45,938] - logger.py] - INFO: 调用删除结果：http://localhost:8080/jenkins/job/%E5%8C%97%E4%BA%AC-%E5%AE%8F%E5%93%A5/doDelete
